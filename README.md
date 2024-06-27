@@ -1,1 +1,1 @@
-Attempting to use logic based on data to make the blue ball head towards the black ball
+Attempting to use data-based ai to make the blue ball head towards the black ball
